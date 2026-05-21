@@ -1,2 +1,0 @@
-# aula-teste
-# JavaScript
